@@ -1,4 +1,4 @@
-Quentin Leroy Master
-Bastien Ponchon SM Dominator Du Luv
-Fabien Lenthy Master
-Cybill Clerger Great Mistress of unicorns
+You should input:
+	- "game" to simulate a game
+	- "average n" to get the average score over n simulations
+	- "demo" to simulate a game on a given deck
